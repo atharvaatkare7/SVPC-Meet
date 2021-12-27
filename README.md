@@ -1,7 +1,7 @@
 # SVPC Meet
 
-Developed By-
-Atharva Atkare
+#Developed By-
+#Atharva Atkare
 Debanjali Das
 Rutuja Tejekar
 Srushti Gohade
