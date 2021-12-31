@@ -1,6 +1,6 @@
 # SVPC Meet
 
-<h2><u>Developed By:</u><br>
+<h2><u>Developed By:</u><br><br>
 Atharva Atkare <a href="https://www.linkedin.com/in/atharvaatkare7" target="_blank">https://www.linkedin.com/in/atharvaatkare7</a><br><br>
 Debanjali Das <a href="https://www.linkedin.com/in/debanjali-das-7b70a8192/" target="_blank">https://www.linkedin.com/in/debanjali-das-7b70a8192/</a><br><br>
 Rutuja Dhande <a href="https://www.linkedin.com/in/rutuja-dhande-4b9394213/" target="_blank">https://www.linkedin.com/in/rutuja-dhande-4b9394213/</a><br><br>
